@@ -1,0 +1,1494 @@
+HTTP/1.1 200 OK
+X-Cache-Hits:
+0
+Tracer-Time:
+108
+X-ex:
+fastly_cdn
+Content-Length:
+22485
+X-RateLimit-Limit:
+500
+X-RateLimit-Remaining:
+486
+X-Served-By:
+cache-iad2137-IAD
+Connection:
+keep-alive
+X-Cache:
+MISS
+Server:
+nginx
+Strict-Transport-Security:
+max-age=31536000
+Vary:
+Accept-Encoding,User-Agent,Accept-Language
+Date:
+Mon, 05 Oct 2015 10:28:52 GMT
+Access-Control-Allow-Origin:
+*
+Via:
+1.1 varnish
+Content-Type:
+application/json; charset=utf-8
+Accept-Ranges:
+bytes
+
+{
+  "meta":  {
+    "code": 200,
+    "requestId": "561250e3498e062f87ae9bd7"
+  },
+  "notifications":  [
+     {
+      "type": "notificationTray",
+      "item":  {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response":  {
+    "venues":  [
+       {
+        "id": "560e79f4498e190f15cf79f7",
+        "name": "Kunjapanai",
+        "contact":  {},
+        "location":  {
+          "lat": 11.357852,
+          "lng": 76.92995,
+          "distance": 71889,
+          "cc": "IN",
+          "country": "India"
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d162941735",
+            "name": "Other Great Outdoors",
+            "pluralName": "Other Great Outdoors",
+            "shortName": "Other Outdoors",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 5,
+          "usersCount": 5,
+          "tipCount": 0
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "509f8a7ae4b03f3cc2a9887e",
+        "name": "Mysore, Karnataka, India",
+        "contact":  {},
+        "location":  {
+          "lat": 12.299549939918023,
+          "lng": 76.62586878702501,
+          "distance": 52627,
+          "cc": "IN",
+          "country": "India"
+        },
+        "categories":  [
+           {
+            "id": "4f2a25ac4b909258e854f55f",
+            "name": "Neighborhood",
+            "pluralName": "Neighborhoods",
+            "shortName": "Neighborhood",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 110,
+          "usersCount": 78,
+          "tipCount": 0
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups":  [
+             {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items":  []
+            }
+          ]
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4bb5685d2f70c9b6a23b8430",
+        "name": "Mysore Palace",
+        "contact":  {
+          "phone": "08212421051",
+          "formattedPhone": "0821 242 1051"
+        },
+        "location":  {
+          "address": "Sayyaji Rao Rd",
+          "lat": 12.304475089476309,
+          "lng": 76.65554380077995,
+          "distance": 50536,
+          "postalCode": "570001",
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "Sayyaji Rao Rd",
+            "Mysore 570001",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "52e81612bcbc57f1066b7a14",
+            "name": "Palace",
+            "pluralName": "Palaces",
+            "shortName": "Palace",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 3089,
+          "usersCount": 2261,
+          "tipCount": 48
+        },
+        "url": "http://www.mysorepalace.gov.in",
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4cb9e8d87148f04d923fd9ab",
+        "name": "Rasta Cafe",
+        "contact":  {},
+        "location":  {
+          "address": "Bangalore Mysore Road",
+          "lat": 12.766100350268323,
+          "lng": 77.33143329620361,
+          "distance": 92582,
+          "cc": "IN",
+          "city": "Bangalore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "Bangalore Mysore Road",
+            "Bangalore",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 2619,
+          "usersCount": 1805,
+          "tipCount": 62
+        },
+        "url": "http://rastarasta.com",
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4ddf06717d8b04e502544165",
+        "name": "Mysore",
+        "contact":  {},
+        "location":  {
+          "lat": 12.304504885740354,
+          "lng": 76.64575901049807,
+          "distance": 51333,
+          "cc": "IN",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "50aa9e094b90af0d42d5de0d",
+            "name": "City",
+            "pluralName": "Cities",
+            "shortName": "City",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 3059,
+          "usersCount": 1667,
+          "tipCount": 6
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4c6e8602a437224b870730b1",
+        "name": "Mysore KSRTC Bus Stand",
+        "contact":  {},
+        "location":  {
+          "address": "SH-17",
+          "crossStreet": "Sayyaji Rao Road",
+          "lat": 12.312597922412381,
+          "lng": 76.65844023227692,
+          "distance": 50916,
+          "postalCode": "570016",
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "SH-17 (Sayyaji Rao Road)",
+            "Mysore 570016",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d1fe931735",
+            "name": "Bus Station",
+            "pluralName": "Bus Stations",
+            "shortName": "Bus Station",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 1726,
+          "usersCount": 802,
+          "tipCount": 15
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups":  [
+             {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items":  []
+            }
+          ]
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "560eb3bb498e27302d14ee63",
+        "name": "Sujatha Residency",
+        "contact":  {
+          "phone": "09686660295",
+          "formattedPhone": "096 86 660295"
+        },
+        "location":  {
+          "address": "Anegundi Road, Highway Circle",
+          "crossStreet": "Bannimantap",
+          "lat": 12.32902763719704,
+          "lng": 76.64764768553498,
+          "distance": 53025,
+          "postalCode": "570015",
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "Anegundi Road, Highway Circle (Bannimantap)",
+            "Mysore 570015",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d1f8931735",
+            "name": "Bed & Breakfast",
+            "pluralName": "Bed & Breakfasts",
+            "shortName": "B & B",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/bedandbreakfast_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 3,
+          "usersCount": 1,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "560e7ceb498e72653da4a3cc",
+        "name": "Tea Oasis",
+        "contact":  {},
+        "location":  {
+          "lat": 11.365589,
+          "lng": 76.854485,
+          "distance": 72381,
+          "cc": "IN",
+          "country": "India"
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d1dc931735",
+            "name": "Tea Room",
+            "pluralName": "Tea Rooms",
+            "shortName": "Tea Room",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 2,
+          "usersCount": 2,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4ef32e2a0aaf88e562d0ec13",
+        "name": "Ooty",
+        "contact":  {},
+        "location":  {
+          "lat": 11.409704882673301,
+          "lng": 76.70545842375599,
+          "distance": 73135,
+          "postalCode": "643001",
+          "cc": "IN",
+          "state": "Tamil Nadu",
+          "country": "India",
+          "formattedAddress":  [
+            "643001",
+            "Tamil Nadu"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "50aa9e094b90af0d42d5de0d",
+            "name": "City",
+            "pluralName": "Cities",
+            "shortName": "City",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 1877,
+          "usersCount": 1296,
+          "tipCount": 19
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4d551f7d143ca0932e75abfc",
+        "name": "Mall of Mysore",
+        "contact":  {},
+        "location":  {
+          "address": "1, MG Road",
+          "crossStreet": "M. G. Road",
+          "lat": 12.29783259746937,
+          "lng": 76.66448273860087,
+          "distance": 49319,
+          "postalCode": "570010",
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "1, MG Road (M. G. Road)",
+            "Mysore 570010",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d1fd941735",
+            "name": "Mall",
+            "pluralName": "Malls",
+            "shortName": "Mall",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 2314,
+          "usersCount": 962,
+          "tipCount": 26
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "55844d55498e07890a597ffd",
+        "name": "Mahadeshwara Badawane Extn",
+        "contact":  {},
+        "location":  {
+          "lat": 12.340026846059754,
+          "lng": 76.62211167732511,
+          "distance": 55889,
+          "cc": "IN",
+          "country": "India"
+        },
+        "categories":  [
+           {
+            "id": "4f2a210c4b9023bd5841ed28",
+            "name": "Housing Development",
+            "pluralName": "Housing Developments",
+            "shortName": "Housing Development",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/housingdevelopment_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 132,
+          "usersCount": 2,
+          "tipCount": 0
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "5075643ee4b00b64d4b4f6a1",
+        "name": "Ajay's Room",
+        "contact":  {},
+        "location":  {
+          "lat": 12.321136121233044,
+          "lng": 76.61299486701836,
+          "distance": 55240,
+          "cc": "IN",
+          "country": "India"
+        },
+        "categories":  [
+           {
+            "id": "5032891291d4c4b30a586d68",
+            "name": "Assisted Living",
+            "pluralName": "Assisted Living",
+            "shortName": "Assisted Living",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/apartment_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 201,
+          "usersCount": 7,
+          "tipCount": 1
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4c01dd7acd1895218165f4b3",
+        "name": "Chamundi Hill",
+        "contact":  {},
+        "location":  {
+          "address": "Mysore",
+          "lat": 12.275029012266844,
+          "lng": 76.67090597747715,
+          "distance": 47117,
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "Mysore",
+            "Mysore",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 940,
+          "usersCount": 709,
+          "tipCount": 9
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "53574a5c498ea83e536939bf",
+        "name": "Software Paradigm Infotech Pvt. Ltd.",
+        "contact":  {},
+        "location":  {
+          "address": "SPI City",
+          "crossStreet": "Hebbal Industrial Area",
+          "lat": 12.354312589031519,
+          "lng": 76.60329625833185,
+          "distance": 58472,
+          "postalCode": "570016",
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "SPI City (Hebbal Industrial Area)",
+            "Mysore 570016",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "52f2ab2ebcbc57f1066b8b36",
+            "name": "IT Services",
+            "pluralName": "IT Services",
+            "shortName": "IT Services",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 305,
+          "usersCount": 5,
+          "tipCount": 1
+        },
+        "url": "http://www.spi.com",
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "560d77b6498e71ea26c0aefb",
+        "name": "Vaan Vihaar",
+        "contact":  {},
+        "location":  {
+          "lat": 11.706195505629053,
+          "lng": 76.64146581294303,
+          "distance": 50945,
+          "cc": "IN",
+          "country": "India"
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 2,
+          "usersCount": 2,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "560d5fb2498ecd7b701026ef",
+        "name": "Saptagiri catering",
+        "contact":  {},
+        "location":  {
+          "lat": 12.324125,
+          "lng": 76.630911,
+          "distance": 53991,
+          "cc": "IN",
+          "country": "India"
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d1cb941735",
+            "name": "Food Truck",
+            "pluralName": "Food Trucks",
+            "shortName": "Food Truck",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/streetfood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 2,
+          "usersCount": 2,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4b9b0411f964a520eeeb35e3",
+        "name": "Kamat Loka Ruchi",
+        "contact":  {},
+        "location":  {
+          "address": "SH 94",
+          "lat": 12.70037517,
+          "lng": 77.25170195102692,
+          "distance": 82629,
+          "cc": "IN",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "SH 94",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d10f941735",
+            "name": "Indian Restaurant",
+            "pluralName": "Indian Restaurants",
+            "shortName": "Indian",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 1568,
+          "usersCount": 1082,
+          "tipCount": 42
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4d943c5e19842c0f3003d29f",
+        "name": "Talwalkars",
+        "contact":  {
+          "phone": "08214247492",
+          "formattedPhone": "0821 424 7492",
+          "twitter": "mytalwalkars"
+        },
+        "location":  {
+          "address": "No. 10, Living Corner, 2nd Floor, Above Bata Showroom",
+          "crossStreet": "Temple Road, V. V. Mohalla",
+          "lat": 12.32578926208904,
+          "lng": 76.63217067718506,
+          "distance": 54013,
+          "postalCode": "570002",
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "No. 10, Living Corner, 2nd Floor, Above Bata Showroom (Temple Road, V. V. Mohalla)",
+            "Mysore 570002",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d175941735",
+            "name": "Gym / Fitness Center",
+            "pluralName": "Gyms or Fitness Centers",
+            "shortName": "Gym / Fitness",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 445,
+          "usersCount": 31,
+          "tipCount": 3
+        },
+        "url": "http://www.talwalkars.net",
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "504b52f2e4b04a78af724bb8",
+        "name": "Mysore Junction (MYS)",
+        "contact":  {},
+        "location":  {
+          "address": "JLB Road",
+          "lat": 12.317396684054803,
+          "lng": 76.6452449130996,
+          "distance": 52332,
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "JLB Road",
+            "Mysore",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d129951735",
+            "name": "Train Station",
+            "pluralName": "Train Stations",
+            "shortName": "Train Station",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 1297,
+          "usersCount": 595,
+          "tipCount": 3
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4e2fa4e318a8ea95b0a8a3a7",
+        "name": "Kavitha Bakery & Sweets",
+        "contact":  {},
+        "location":  {
+          "crossStreet": "New Kantharaj Urs Road",
+          "lat": 12.295369148254395,
+          "lng": 76.62128448486328,
+          "distance": 52722,
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "New Kantharaj Urs Road",
+            "Mysore",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d16a941735",
+            "name": "Bakery",
+            "pluralName": "Bakeries",
+            "shortName": "Bakery",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 151,
+          "usersCount": 33,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "503b7b4ce4b0bbcb17c2c315",
+        "name": "Kavitha Bakery & Sweets",
+        "contact":  {},
+        "location":  {
+          "address": "New Kantharaj Urs Road",
+          "crossStreet": "Kuvempunagar",
+          "lat": 12.29114774140303,
+          "lng": 76.62255170490552,
+          "distance": 52323,
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "New Kantharaj Urs Road (Kuvempunagar)",
+            "Mysore",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d16a941735",
+            "name": "Bakery",
+            "pluralName": "Bakeries",
+            "shortName": "Bakery",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 196,
+          "usersCount": 14,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4d174f33cc216ea8dc4f6ed3",
+        "name": "Cafe Coffee Day",
+        "contact":  {},
+        "location":  {
+          "address": "Bangalore - Mysore Road",
+          "lat": 12.639127,
+          "lng": 77.1412315119396,
+          "distance": 72785,
+          "cc": "IN",
+          "city": "Maddūr",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "Bangalore - Mysore Road",
+            "Maddūr",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 638,
+          "usersCount": 497,
+          "tipCount": 4
+        },
+        "url": "http://cafecoffeeday.com",
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4c01e512cd1895218f66f4b3",
+        "name": "Chamundi Temple",
+        "contact":  {},
+        "location":  {
+          "address": "Chamundi Hill",
+          "lat": 12.272773574934869,
+          "lng": 76.6707255221809,
+          "distance": 46970,
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "Chamundi Hill",
+            "Mysore",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d13a941735",
+            "name": "Temple",
+            "pluralName": "Temples",
+            "shortName": "Temple",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_temple_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 867,
+          "usersCount": 674,
+          "tipCount": 14
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4c6f3fceb3ce224bf47570c6",
+        "name": "Café County",
+        "contact":  {},
+        "location":  {
+          "lat": 12.308068700840126,
+          "lng": 76.30614668463565,
+          "distance": 82930,
+          "cc": "IN",
+          "city": "Coorg",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "Coorg",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 597,
+          "usersCount": 391,
+          "tipCount": 11
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4e881c611081e1d3ac9561ff",
+        "name": "Radisson Blu Plaza Hotel",
+        "contact":  {},
+        "location":  {
+          "address": "1, MG Road, Ittige gudu",
+          "lat": 12.297990766962826,
+          "lng": 76.66531473398209,
+          "distance": 49264,
+          "postalCode": "570010",
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "1, MG Road, Ittige gudu",
+            "Mysore 570010",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 194,
+          "usersCount": 58,
+          "tipCount": 1
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "55dad38e498ee2bf3e1e3100",
+        "name": "SPI Food Court",
+        "contact":  {},
+        "location":  {
+          "lat": 12.354168946511717,
+          "lng": 76.60341474490366,
+          "distance": 58452,
+          "cc": "IN",
+          "country": "India"
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d120951735",
+            "name": "Food Court",
+            "pluralName": "Food Courts",
+            "shortName": "Food Court",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_foodcourt_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 21,
+          "usersCount": 1,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "52430195498e9afc1f4e04f7",
+        "name": "Lemon Tree",
+        "contact":  {},
+        "location":  {
+          "lat": 12.332129772580727,
+          "lng": 76.651815767527,
+          "distance": 52938,
+          "cc": "IN",
+          "country": "India"
+        },
+        "categories":  [
+           {
+            "id": "4d4ae6fc7a7b7dea34424761",
+            "name": "Fried Chicken Joint",
+            "pluralName": "Fried Chicken Joints",
+            "shortName": "Fried Chicken",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/friedchicken_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 78,
+          "usersCount": 40,
+          "tipCount": 1
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "548ddcfd498e1d4b3981f67b",
+        "name": "Trinetra Circle",
+        "contact":  {},
+        "location":  {
+          "lat": 12.340095725096612,
+          "lng": 76.62199320810173,
+          "distance": 55904,
+          "cc": "IN",
+          "country": "India"
+        },
+        "categories":  [
+           {
+            "id": "52f2ab2ebcbc57f1066b8b4f",
+            "name": "Bus Stop",
+            "pluralName": "Bus Stops",
+            "shortName": "Bus Stop",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 229,
+          "usersCount": 4,
+          "tipCount": 0
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4d425521c95b721e66c7682b",
+        "name": "St.Philomena's College",
+        "contact":  {},
+        "location":  {
+          "address": "Bannimantap",
+          "crossStreet": "Mysore Bangalore Road",
+          "lat": 12.337589557081179,
+          "lng": 76.65472601163027,
+          "distance": 53140,
+          "postalCode": "570015",
+          "cc": "IN",
+          "city": "Mysore",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "Bannimantap (Mysore Bangalore Road)",
+            "Mysore 570015",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d198941735",
+            "name": "College Academic Building",
+            "pluralName": "College Academic Buildings",
+            "shortName": "Academic Building",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/education/academicbuilding_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 1252,
+          "usersCount": 95,
+          "tipCount": 2
+        },
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      },
+       {
+        "id": "4c5ce2026ebe2d7fb591d12e",
+        "name": "Vasudeva Adiga's",
+        "contact":  {},
+        "location":  {
+          "address": "Somanahalli, Bangalore - Mysore Highway,",
+          "lat": 12.613432073544525,
+          "lng": 77.05827713012695,
+          "distance": 68580,
+          "cc": "IN",
+          "city": "Maddūr",
+          "state": "Karnātaka",
+          "country": "India",
+          "formattedAddress":  [
+            "Somanahalli, Bangalore - Mysore Highway,",
+            "Maddūr",
+            "Karnātaka"
+          ]
+        },
+        "categories":  [
+           {
+            "id": "4bf58dd8d48988d143941735",
+            "name": "Breakfast Spot",
+            "pluralName": "Breakfast Spots",
+            "shortName": "Breakfast",
+            "icon":  {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats":  {
+          "checkinsCount": 740,
+          "usersCount": 515,
+          "tipCount": 18
+        },
+        "allowMenuUrlEdit": true,
+        "specials":  {
+          "count": 0,
+          "items":  []
+        },
+        "hereNow":  {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups":  []
+        },
+        "referralId": "v-1444040932"
+      }
+    ]
+  }
+}
